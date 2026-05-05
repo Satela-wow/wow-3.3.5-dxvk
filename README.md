@@ -3,7 +3,8 @@ pre-configured build and config of DXVK for wow 3.3.5 clients
 
 The purpose of this is to **increase FPS** in most cases, as well as potentially fix some (gpu) issues and allow for some extra configuration.
 
-I've tested this build and config for a very long time with very little crashes or problems on my AMD gpu, and some other people used the same files successfully.
+I've tested this build and config for a very long time with very little crashes or problems on my AMD gpu, and some other people used the same files successfully. 
+However I do not offer any support if anyone is having problems with it.
 
 ## How to install
 Download by clicking on 'Code' -> Download zip. 
