@@ -14,6 +14,9 @@ Then simply copy d3d9.dll and dxvk.conf to your wow folder, not a subfolder. The
 If you already have one of these files, you have a conflicting mod of some sort. (ENBSeries or another dxvk build most likely) Remove it if you want to use this DXVK version.
 Do not try to install another mod that replaces d3d9.dll such as ENBSeries, this does not work!
 
+#### Uninstall / disable
+Simply delete or rename at least the d3d9.dll file, this prevents it from loading in.
+
 ## Credit
 I did NOT compile this binary, nor write this config, it originated from a [post on the Warmane forums](https://forum.warmane.com/showthread.php?t=440657). The binary is from [this release of DXVK](https://github.com/Sporif/dxvk-async/releases/tag/2.0). 
 
