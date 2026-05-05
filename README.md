@@ -7,7 +7,7 @@ I've tested this build and config for a very long time with very little crashes 
 However I do not offer any support if anyone is having problems with it.
 
 ## How to install
-Download by clicking on 'Code' -> Download zip. 
+[Download by clicking on 'Code' -> Download zip](https://github.com/Satela-wow/wow-3.3.5-dxvk/archive/refs/heads/main.zip).
 
 Then simply copy d3d9.dll and dxvk.conf to your wow folder, not a subfolder. They need to be in the same folder as your wow.exe
 
